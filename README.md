@@ -2,7 +2,7 @@ This is a directory in which I will collect all my Stardew Valley related .ahk s
 
 The "animation cancel.ahk" script provides the following functionality:
 - Animation cancelling on press of space bar
-- Activation/deactivation of the script via F5
+- Activation/deactivation of the animation cancelling functionality via F5
 - Mapping arrow keys to wasd
 - Mapping SC029 to ctrl+tab (which rotates the inventory/hotbar backwards)
 	On my german keyboard layout this is the ^/° key that is located directly above the tab key, though you mileage may vary.
